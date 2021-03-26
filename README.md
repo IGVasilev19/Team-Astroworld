@@ -6,7 +6,7 @@
 * Теодор Османлиев - Data and Machine Learning Designer - TPOsmanliev19@codingburgas.bg
 * Тереза Опанска- Deep learning designer - TNOpanska19@codingburgas.bg
 
-Това е отборът ни за проекта Hackaton "AI for City"
+Това е отборът ни за проекта Hackathon "AI for City"
 
 # Образователна институция
 ### Професионална гимназия по компютърно програмиране и иновации - ПГКПИ
